@@ -5,7 +5,7 @@
 
 const celsius_temperature = 30;
 const fahrenheit_temperature = (9 / 5) * celsius_temperature + 32;
-console.log(fahrenheit_temperature);
+console.log(celsius_temperature, fahrenheit_temperature);
 
 // Задание 2
 // Необходимо создать переменную name, 
